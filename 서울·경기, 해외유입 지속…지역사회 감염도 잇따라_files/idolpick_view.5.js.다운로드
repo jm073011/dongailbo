@@ -1,0 +1,1 @@
+document.write ( '<a href=\'https://idolpick.donga.com/poll/poll.php?m=0\' target=\'_blank\'><span class=\'thumb\'><img src=\'http://dimg.donga.com/a/193/128/90/2/carriage/IDOLPICK/images/idolpick_view/5e7019760214d2738de6.jpg\' alt=\'\'></span><span class=\'category kind05\'>아이돌픽</span> <span class=\'title\'>모모를 응원해줘</span></a>' ) ; 

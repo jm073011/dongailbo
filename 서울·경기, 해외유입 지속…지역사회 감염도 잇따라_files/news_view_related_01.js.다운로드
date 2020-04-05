@@ -1,0 +1,2 @@
+document.write("<li style='height:30px;'><iframe width='600' height='30' src='//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.donga.com/news@x20' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' allowtransparency='true'></iframe></li>") ;
+document.write("<li style='height:30px;'><iframe width='600' height='30' src='//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.donga.com/news@x21' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' allowtransparency='true'></iframe></li>") ;

@@ -1,0 +1,8 @@
+//document.write("<iframe width='300' height='175' src='//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.donga.com/news@x19' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' allowtransparency='true'></iframe>") ;
+//document.write("<iframe width='300' height='156' src='//yellow.contentsfeed.com/RealMedia/ads/adstream_sx.ads/www.donga.com/news@x16' frameborder='0' marginwidth='0' marginheight='0' scrolling='no' allowtransparency='true'></iframe>") ;
+
+//adURL =  "//yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x13";
+//document.write ("<SCR" + "IPT " + "type='text/javascript" + "' src='" + adURL + "'></SCR" + "IPT>");
+
+adURL =  "//yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x13";
+document.write ("<SCR" + "IPT " + "type='text/javascript" + "' src='" + adURL + "'></SCR" + "IPT>");
