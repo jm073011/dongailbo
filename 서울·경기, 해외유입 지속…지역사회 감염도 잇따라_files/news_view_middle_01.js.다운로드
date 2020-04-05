@@ -1,0 +1,6 @@
+adURL = new Array();
+adURL[0] = "//yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@Position1";
+adURL[1] = "//yellow.contentsfeed.com/RealMedia/ads/adstream_jx.ads/www.donga.com/news@x50";
+
+document.write ("<SCR" + "IPT " + "type='text/javascript" + "' src='" + adURL[0] + "'></SCR" + "IPT>");
+document.write ("<SCR" + "IPT " + "type='text/javascript" + "' src='" + adURL[1] + "'></SCR" + "IPT>");

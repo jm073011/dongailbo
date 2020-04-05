@@ -1,0 +1,12 @@
+document.write ('<script>\n');
+document.write ('var adput_url = window.btoa(location.href) ;\n');
+document.write ('\n');
+document.write ('if (adput_url.length > 200)\n');
+document.write ('{\n');
+document.write ('    adput_url = adput_url.substr(0, 200) ;\n');
+document.write ('}\n');
+document.write ('</script>\n');
+document.write ('<script src="https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01l2&out=script"></script>\n');
+document.write ('\n');
+document.write ('\n');
+document.write ('<script src="https://media.adpnut.com/cgi-bin/PelicanC.dll?impr?pageid=01l1&out=script"></script>');
